@@ -8,4 +8,5 @@
 7. Structure Aware Negative Sampling in Knowledge Graphs[EMNLP2020]
 8. ROTATE: KNOWLEDGE GRAPH EMBEDDING BY RELA- TIONAL ROTATION IN COMPLEX SPACE[ICLR2019]
 9. Injecting Background Knowledge into Embedding Models for Predictive Tasks on Knowledge Graphs [ESWC 2020]
+10. Understanding Negative Sampling in Graph Representation Learning[KDD2020]
 
