@@ -12,3 +12,5 @@
 11. Injecting Background Knowledge into Embedding Models for Predictive Tasks on Knowledge Graphs [ESWC 2020]
 12. Understanding Negative Sampling in Graph Representation Learning[KDD2020]
 13. Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs[Arxiv]
+
+14. Type-constrained representation learning in knowledge graphs [ISWC2015]
